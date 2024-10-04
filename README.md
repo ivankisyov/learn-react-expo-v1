@@ -48,3 +48,22 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+---
+
+# Custom notes start here
+
+## Tutorial app
+
+### Commands
+
+- start the app: `npx expo start`
+
+### Libs and additional packages
+
+- expo/vector-icons
+- expo-image-picker
+
+### VS code Plugins
+
+- dsznajder: ES7+ React/Redux/React-Native snippets
