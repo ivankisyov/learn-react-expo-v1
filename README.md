@@ -71,3 +71,8 @@ Join our community of developers creating universal apps.
 ### TIL
 
 - https://reactnative.directory/
+
+### Running the app on android and iOS emulators
+
+- https://www.youtube.com/watch?v=xKGESzemfdw&t=122s&ab_channel=Codevolution
+- https://www.youtube.com/watch?v=DloY4tyzKDA&ab_channel=Codevolution
