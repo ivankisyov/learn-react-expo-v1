@@ -80,6 +80,19 @@ Join our community of developers creating universal apps.
       - context api
       - zustand
       - some other redux oriented pattern
+- use single state instead of multiple states
+  - example:
+    - handling api call
+      - declare multiple state variables:
+        - isLoading
+        - hasError
+        - ...
+      - instead use single status state variable, it will be an union
+        - the status can be:
+          - 'idle'
+          - 'error'
+          - 'success'
+          - 'loading'
 
 ### Running the app on android and iOS emulators
 
