@@ -93,6 +93,22 @@ Join our community of developers creating universal apps.
           - 'error'
           - 'success'
           - 'loading'
+- Day 5: React Best Practices: https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad
+  - keep your code readable
+    - create util functions for logic
+      - if an util fn uses hooks, the util will be a custom hook
+    - create components for markup
+  - keep state in the url as well
+    - examples:
+      - filters
+      - pagination
+      - ids
+    - don't use useState for those, laverage the info from the url
+  - useEffect
+    - one effect, one concern, do not mix concerns
+  - fetching data
+    - rely on third party solutions
+      - example: react query: https://www.npmjs.com/package/@tanstack/react-query
 
 ### Running the app on android and iOS emulators
 
