@@ -109,8 +109,16 @@ Join our community of developers creating universal apps.
   - fetching data
     - rely on third party solutions
       - example: react query: https://www.npmjs.com/package/@tanstack/react-query
+- Day 6:
+  - collection of react hooks: https://www.npmjs.com/package/react-use
 
 ### Running the app on android and iOS emulators
 
 - https://www.youtube.com/watch?v=xKGESzemfdw&t=122s&ab_channel=Codevolution
 - https://www.youtube.com/watch?v=DloY4tyzKDA&ab_channel=Codevolution
+
+#### Learning resources
+
+- https://courses.webdevsimplified.com/react-hooks-simplified
+- https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad
+- https://www.youtube.com/watch?v=-yIsQPp31L0&ab_channel=ByteGrad
