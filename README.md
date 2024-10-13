@@ -70,10 +70,10 @@ Join our community of developers creating universal apps.
 
 ### TIL
 
-- Day 1: https://reactnative.directory/
-- Day 2: useRef and more on hooks: https://www.youtube.com/watch?v=t2ypzz6gJm0&ab_channel=WebDevSimplified
-- Day 3: Junior React Developers mistakes: https://www.youtube.com/watch?v=-yIsQPp31L0&ab_channel=ByteGrad
-- Day 4: React Best Practices: https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad
+- Day 1: [react native directory](https://reactnative.directory/)
+- Day 2: [useRef and more on hooks](https://www.youtube.com/watch?v=t2ypzz6gJm0&ab_channel=WebDevSimplified)
+- Day 3: [Junior React Developers mistakes](https://www.youtube.com/watch?v=-yIsQPp31L0&ab_channel=ByteGrad)
+- Day 4: [React Best Practices](https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad)
   - avoid props drilling by either:
     - using children approach
     - using state management approach:
@@ -93,7 +93,7 @@ Join our community of developers creating universal apps.
           - 'error'
           - 'success'
           - 'loading'
-- Day 5: React Best Practices: https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad
+- Day 5: [React Best Practices](https://www.youtube.com/watch?v=5r25Y9Vg2P4&ab_channel=ByteGrad)
   - keep your code readable
     - create util functions for logic
       - if an util fn uses hooks, the util will be a custom hook
@@ -108,9 +108,11 @@ Join our community of developers creating universal apps.
     - one effect, one concern, do not mix concerns
   - fetching data
     - rely on third party solutions
-      - example: react query: https://www.npmjs.com/package/@tanstack/react-query
+      - example: [react query](https://www.npmjs.com/package/@tanstack/react-query)
 - Day 6:
-  - collection of react hooks: https://www.npmjs.com/package/react-use
+  - collection of react [hooks](https://www.npmjs.com/package/react-use)
+  - [STOP using useState, instead put state in URL (in React & Next.js)](https://www.youtube.com/watch?v=ukpgxEemXsk&ab_channel=ByteGrad)
+    - schema validator: [Zod](https://www.youtube.com/watch?v=AeQ3f4zmSMs&ab_channel=ByteGrad)
 
 ### Running the app on android and iOS emulators
 
